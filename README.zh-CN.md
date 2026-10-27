@@ -44,6 +44,29 @@ _详细内容（列表、链接、描述）以英文维护 — 以下章节为�
 | [Hugging Face Spaces](https://huggingface.co/spaces) | ✅ thousands of free demos |
 | [Ollama](https://ollama.com/) | ✅ local models, zero cost |
 
+## 🎓 Free tiers worth exploiting
+
+| Provider | Free |
+|---|---|
+| Google AI Studio | Nearly unlimited Gemini flash |
+| Groq | Fast inference free tier |
+| Mistral La Plateforme | Free tier API |
+| Cohere | Trial API keys |
+| HuggingFace Inference | Free community tier |
+| Cloudflare Workers AI | 10k neurons/day free |
+
+## 📱 Free local (no API at all)
+
+- **Ollama** + Llama/Qwen — full local
+- **Jan.ai** — nice UI over llama.cpp
+- **LM Studio** — GUI model manager
+- **Whisper.cpp** — local transcription
+- **Stable Diffusion** (ComfyUI/Fooocus) — local images
+
+## 🧾 Note on "free"
+
+Free tiers get rate-limited or sunset; self-hosting has hardware cost. The genuinely free path = local quantized models.
+
 ---
 ## 贡献
 
