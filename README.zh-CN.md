@@ -4,68 +4,66 @@
 
 免费 AI 工具 — 写作、图像、音频、自动化
 
-_详细内容（列表、链接、描述）以英文维护 — 以下章节为你指引。_
-
-## ✍️ Writing
-| Tool | Free tier |
+□ □ □ 写
+* * 工具 * * 免费
 |---|---|
-| [ChatGPT](https://chat.openai.com/) | ✅ GPT-4o mini + limited 4o |
-| [Claude](https://claude.ai/) | ✅ daily quota |
-| [Mistral Le Chat](https://chat.mistral.ai/) | ✅ generous |
-| [DeepSeek](https://chat.deepseek.com/) | ✅ very generous |
-| [HuggingChat](https://huggingface.co/chat/) | ✅ fully open |
+[ChatGPT](https://chat.openai.com/) + GPT-4o 小型+有限 + 4o →
+[克劳德] (https://claude.ai/) ===================================================================================================================================================================================================================================================
+(原始内容存档于2017-07-21) (中文(简体) ).
+[深呼吸] (https://chat.deepseek.com/)... ...非常慷慨... ...
+[HuggingChat] (https://huggingface.co/chat/) | ✅ ✅ ✅ ✅ ✅ 全面开放 | |
 
-## 🖼️ Image
-| Tool | Free tier |
+# # # # 图像
+* * 工具 * * 免费
 |---|---|
-| [Flux (via playgrounds)](https://huggingface.co/spaces/black-forest-labs/FLUX.1-schnell) | ✅ free demo |
-| [Ideogram](https://ideogram.ai/) | ✅ daily credits |
-| [Stable Diffusion local](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | ✅ 100% free locally |
-| [Playground](https://playground.com/) | ✅ |
+[豪华(通过游乐场)](https://huggingface.co/spaces/black-forest-labs/FLUX.1-schnell) QQ 免费演示 QQ
+[影像](https://ideogram.ai/) 每天的信用额
+(https://github.com/AUTOMATIC1111/stable-diffusion-webui) 100%免费当地 100%免费当地 100%免费当地 100%免费当地 100%免费 100%免费 100%免费 100%免费 100%免费 100%免费 100%免费 100% 免费 免费 免费 100% 免费 免费 免费 免费 免费 免费 免费 免费 免费 免费 免费 免费 免费 免费 免费 免费 免费 免费 免费 免费 免费 免费 免费 免费 免费 免费 免费 免费 免费 免费 免费 免费 免费 免费 免费 免费 免费 免费 免费 免费 免费 免费 免费 免费 免费 免费 免费 免费 免费 免费 免费 免费 免费 免费 免费 免费 免费 免费 免费 免费 免费 免费 免费 免费 免费 免费 免费 免费 免费 免费 免费 免费 免费 免费 免费 免费 免费 免费 免费 免费 免费 免费 免费 免费 免费 免费 免费 免费 免费 免费 免费 免费 免费 免费 免费 免费 免费 免费 免费 免费 
+[铺设] (https://playground.com/) | ✅ ✅
 
-## 💻 Code
-| Tool | Free tier |
+# # # # # 代码
+* * 工具 * * 免费
 |---|---|
-| [Continue + local model](https://continue.dev/) | ✅ fully free |
-| [Codeium/Windsurf plugin](https://codeium.com/) | ✅ generous |
-| [Aider](https://aider.chat/) | ✅ free, BYO API key |
+[继续+本地模式](https://continue.dev/) QQ全免费QQ.
+[Codeium/Windsurf插件](https://codeium.com/) QQ 慷慨 QQ
+[Aider](https://aider.chat/) 免费,BYO API密钥 QQ
 
-## 🎙️ Audio
-| Tool | Free tier |
+# # # 音频 # # # Audio #
+* * 工具 * * 免费
 |---|---|
-| [Whisper local](https://github.com/openai/whisper) | ✅ fully free |
-| [Adobe Podcast enhance](https://podcast.adobe.com/) | ✅ |
-| [ElevenLabs](https://elevenlabs.io/) | ✅ monthly credits |
+[低调的当地] (https://github.com/openai/whisper) QQ 完全免费 QQ
+[Adobe Podcast加强](https://podcast.adobe.com/) | ✅ ✅
+[ElevenLabs](https://elevenlabs.io/) 月度信用额
 
-## 🔄 Automation
-| Tool | Free tier |
+# # # # 自动化
+* * 工具 * * 免费
 |---|---|
-| [n8n self-hosted](https://n8n.io/) | ✅ fully free OSS |
-| [Hugging Face Spaces](https://huggingface.co/spaces) | ✅ thousands of free demos |
-| [Ollama](https://ollama.com/) | ✅ local models, zero cost |
+[n8n自办](https://n8n.io/) 腾讯网 腾讯网.
+(原始内容存档于2017-09-29) (中文(中国大陆) ).
+[奥拉马] (https://ollama.com/) QQ本地型号,零成本 QQ
 
-## 🎓 Free tiers worth exploiting
+#####自由的层次值得利用
 
-| Provider | Free |
+提供商 免费 免费
 |---|---|
-| Google AI Studio | Nearly unlimited Gemini flash |
-| Groq | Fast inference free tier |
-| Mistral La Plateforme | Free tier API |
-| Cohere | Trial API keys |
-| HuggingFace Inference | Free community tier |
-| Cloudflare Workers AI | 10k neurons/day free |
+Google AI Studio 几乎无限双子座闪光 QQ
+快速推论自由级
+(原始内容存档于2018-09-26). Mistral La Plateforme 自由的 API QQ
+尝试 API 键
+自由社区等级
+===============================================================================================================================================================================================================================================================
 
-## 📱 Free local (no API at all)
+□ QQ 本地自由( 根本没有 API )
 
-- **Ollama** + Llama/Qwen — full local
-- **Jan.ai** — nice UI over llama.cpp
-- **LM Studio** — GUI model manager
-- **Whisper.cpp** — local transcription
-- **Stable Diffusion** (ComfyUI/Fooocus) — local images
+- ** Ollama** + Llama/Quen——完全当地
+不错的UI over lama.cpp。
+- **LM Studio** — GUI 模型管理器
+- **Whisper.cpp**——当地抄本
+- **稳定传播**(ComfyUI/Fooocus)——本地图像
 
-## 🧾 Note on "free"
+######在"自由"上的注释
 
-Free tiers get rate-limited or sunset; self-hosting has hardware cost. The genuinely free path = local quantized models.
+自由阶梯得到的是限速或日落;自宿有硬件成本. 真正自由的路径 = 本地量化模式.
 
 ---
 ## 贡献
