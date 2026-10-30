@@ -4,68 +4,66 @@
 
 無料 AI ツール集
 
-_詳細なコンテンツ（リスト・リンク・説明）は保守のため英語です。以下のセクションがガイドになります。_
-
-## ✍️ Writing
-| Tool | Free tier |
+## 投稿
+| ツール | 無料ティア |
 |---|---|
-| [ChatGPT](https://chat.openai.com/) | ✅ GPT-4o mini + limited 4o |
-| [Claude](https://claude.ai/) | ✅ daily quota |
-| [Mistral Le Chat](https://chat.mistral.ai/) | ✅ generous |
-| [DeepSeek](https://chat.deepseek.com/) | ✅ very generous |
-| [HuggingChat](https://huggingface.co/chat/) | ✅ fully open |
+| 【ChatGPT】(https://chat.openai.com/) | ✅ GPT-4o mini + 限定4o |
+| 【クラウデ】(https://claude.ai/) | ✅ デイリークォータ |
+| 【Mistral Le Chat】(https://chat.mistral.ai/) | ✅寛大 |
+| 【深夜】(https://chat.deepseek.com/) | ✅ とても寛大 |
+| 【HuggingChat】(https://huggingface.co/chat/) | ✅ 完全オープン |
 
-## 🖼️ Image
-| Tool | Free tier |
+## 中国の画像
+| ツール | 無料ティア |
 |---|---|
-| [Flux (via playgrounds)](https://huggingface.co/spaces/black-forest-labs/FLUX.1-schnell) | ✅ free demo |
-| [Ideogram](https://ideogram.ai/) | ✅ daily credits |
-| [Stable Diffusion local](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | ✅ 100% free locally |
-| [Playground](https://playground.com/) | ✅ |
+| 【フラックス(遊び場経由)】(https://huggingface.co/spaces/black-forest-labs/FLUX.1-schnell) | ✅ 無料デモ |
+| 【アイデグラム】(https://ideogram.ai/) | ✅ 日次クレジット |
+| 【安定拡散局】(https://github.com/AUTOMATIC1111/stable-diffusion-webui) | ✅ 100% ローカルで無料 |
+| 【遊び場】(https://playground.com/) | ✅ |
 
-## 💻 Code
-| Tool | Free tier |
+## . コード
+| ツール | 無料ティア |
 |---|---|
-| [Continue + local model](https://continue.dev/) | ✅ fully free |
-| [Codeium/Windsurf plugin](https://codeium.com/) | ✅ generous |
-| [Aider](https://aider.chat/) | ✅ free, BYO API key |
+| 【大陸+ローカルモデル】(https://continue.dev/) | ✅ 完全無料 |
+| 【コルチウム/ウインドサーフィンプラグイン】(https://codeium.com/) | ✅ 寛大 |
+| 【Aider】(https://aider.chat/) | ✅ 無料で BYO API キー |
 
-## 🎙️ Audio
-| Tool | Free tier |
+## オーディオ
+| ツール | 無料ティア |
 |---|---|
-| [Whisper local](https://github.com/openai/whisper) | ✅ fully free |
-| [Adobe Podcast enhance](https://podcast.adobe.com/) | ✅ |
-| [ElevenLabs](https://elevenlabs.io/) | ✅ monthly credits |
+| 【周辺地域】(https://github.com/openai/whisper) | ✅ 完全無料 |
+| 【Adobe Podcast 強化】(https://podcast.adobe.com/) | ✅ |
+| 【ElevenLabs】(https://elevenlabs.io/) | ✅ 月次クレジット |
 
-## 🔄 Automation
-| Tool | Free tier |
+## オートメーション
+| ツール | 無料ティア |
 |---|---|
-| [n8n self-hosted](https://n8n.io/) | ✅ fully free OSS |
-| [Hugging Face Spaces](https://huggingface.co/spaces) | ✅ thousands of free demos |
-| [Ollama](https://ollama.com/) | ✅ local models, zero cost |
+| 【n8n自走】(https://n8n.io/) | ✅ 完全無料OS |
+| 【Hugging Face Spaces】(https://huggingface.co/spaces) | ✅ 数千の無料デモ |
+| 【オラマ】(https://ollama.com/) | ✅ ローカルモデル・ゼロコスト |
 
-## 🎓 Free tiers worth exploiting
+## 余計な不正行為
 
-| Provider | Free |
+| 提供者 | 無料 |
 |---|---|
-| Google AI Studio | Nearly unlimited Gemini flash |
-| Groq | Fast inference free tier |
-| Mistral La Plateforme | Free tier API |
-| Cohere | Trial API keys |
-| HuggingFace Inference | Free community tier |
-| Cloudflare Workers AI | 10k neurons/day free |
+| Google AI Studio | ほぼ無制限 ジオミニ フラッシュ |
+| ロット | ファーレンスフリーティア |
+| Mistral La plateforme | 無料ティア API |
+| コーヒー | トライアルAPIキー |
+| HuggingFace Inference | 無料コミュニティ層 |
+| クラウドフレアワーカー AI | 10kニューロンズ・デイフリー |
 
-## 📱 Free local (no API at all)
+## ̇ ローカル(APIなし)
 
-- **Ollama** + Llama/Qwen — full local
-- **Jan.ai** — nice UI over llama.cpp
-- **LM Studio** — GUI model manager
-- **Whisper.cpp** — local transcription
-- **Stable Diffusion** (ComfyUI/Fooocus) — local images
+- **オラマ** + Llama/Qwen — フルローカル
+- **Jan.ai** — llama.cpp 上で素敵なUI
+-**LM Studio** — GUIモデルマネージャ
+- **Whisper.cpp** — ローカルトランスクリプション
+- **Stable Diffusion** (ComfyUI/Fooocus) — ローカル画像
 
-## 🧾 Note on "free"
+## free "free" に注意してください。
 
-Free tiers get rate-limited or sunset; self-hosting has hardware cost. The genuinely free path = local quantized models.
+無料ティアは、レート制限または日没を取得します。 セルフホスティングは、ハードウェアコストを持っています。 本物フリーパス = ローカル定量化モデル。
 
 ---
 ## 貢献
