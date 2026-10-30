@@ -4,68 +4,66 @@
 
 Outils IA gratuits du quotidien — écriture, image, audio, automatisation
 
-_Le contenu détaillé (listes, liens, descriptions) est en anglais pour rester maintenable — les sections ci-dessous te guident._
-
-## ✍️ Writing
-| Tool | Free tier |
+Écrire
+Outil
 |---|---|
-| [ChatGPT](https://chat.openai.com/) | ✅ GPT-4o mini + limited 4o |
-| [Claude](https://claude.ai/) | ✅ daily quota |
-| [Mistral Le Chat](https://chat.mistral.ai/) | ✅ generous |
-| [DeepSeek](https://chat.deepseek.com/) | ✅ very generous |
-| [HuggingChat](https://huggingface.co/chat/) | ✅ fully open |
+[ChatGPT](https://chat.openai.com/)
+[Claude](https://claude.ai/)
+[Mistral Le Chat] (https://chat.mistral.ai/)
+[DeepSeek] (https://chat.deepseek.com/)
+[HuggingChat](https://huggingface.co/chat/)
 
-## 🖼️ Image
-| Tool | Free tier |
+Image
+Outil
 |---|---|
-| [Flux (via playgrounds)](https://huggingface.co/spaces/black-forest-labs/FLUX.1-schnell) | ✅ free demo |
-| [Ideogram](https://ideogram.ai/) | ✅ daily credits |
-| [Stable Diffusion local](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | ✅ 100% free locally |
-| [Playground](https://playground.com/) | ✅ |
+Demo gratuite
+[Idéogramme] (https://ideogram.ai/)
+[Stable Diffusion locale] (https://github.com/AUTOMATIC1111/stable-diffusion-webui)
+[Playground] (https://playground.com/)
 
-## 💻 Code
-| Tool | Free tier |
+Code
+Outil
 |---|---|
-| [Continue + local model](https://continue.dev/) | ✅ fully free |
-| [Codeium/Windsurf plugin](https://codeium.com/) | ✅ generous |
-| [Aider](https://aider.chat/) | ✅ free, BYO API key |
+[Continuer + modèle local](https://continue.dev/)
+[Greffon Codeium/Windsurf] (https://codeium.com/)
+[Aider](https://aider.chat/)
 
-## 🎙️ Audio
-| Tool | Free tier |
+Audio
+Outil
 |---|---|
-| [Whisper local](https://github.com/openai/whisper) | ✅ fully free |
-| [Adobe Podcast enhance](https://podcast.adobe.com/) | ✅ |
-| [ElevenLabs](https://elevenlabs.io/) | ✅ monthly credits |
+[Whisper local](https://github.com/openai/whisper)
+[Améliorer le podcast d'Adobe](https://podcast.adobe.com/)
+Crédits mensuels
 
-## 🔄 Automation
-| Tool | Free tier |
+Automatisation
+Outil
 |---|---|
-| [n8n self-hosted](https://n8n.io/) | ✅ fully free OSS |
-| [Hugging Face Spaces](https://huggingface.co/spaces) | ✅ thousands of free demos |
-| [Ollama](https://ollama.com/) | ✅ local models, zero cost |
+[n8n self-hosted](https://n8n.io/)
+Des milliers de démos gratuites
+[Ollama] (https://ollama.com/)
 
-## 🎓 Free tiers worth exploiting
+Les niveaux libres méritent d'être exploités
 
-| Provider | Free |
+Fournisseur gratuit
 |---|---|
-| Google AI Studio | Nearly unlimited Gemini flash |
-| Groq | Fast inference free tier |
-| Mistral La Plateforme | Free tier API |
-| Cohere | Trial API keys |
-| HuggingFace Inference | Free community tier |
-| Cloudflare Workers AI | 10k neurons/day free |
+Google AI Studio
+Groq: Niveau sans inférence rapide
+Mistral La Plateforme
+Clés de l'API d'essai Cohere
+Une communauté libre
+Les travailleurs de Cloudflare AI.
 
-## 📱 Free local (no API at all)
+Gratuit local (pas d'API du tout)
 
-- **Ollama** + Llama/Qwen — full local
-- **Jan.ai** — nice UI over llama.cpp
-- **LM Studio** — GUI model manager
-- **Whisper.cpp** — local transcription
-- **Stable Diffusion** (ComfyUI/Fooocus) — local images
+- **Ollama** + Llama/Qwen - entier local
+- **Jan.ai** — bonne UI sur lama.cpp
+- **LM Studio** — Gestionnaire de modèles GUI
+- **Whisper.cpp** — transcription locale
+- **Stable Diffusion** (ComfyUI/Fooocus) — images locales
 
-## 🧾 Note on "free"
+Note sur "libre"
 
-Free tiers get rate-limited or sunset; self-hosting has hardware cost. The genuinely free path = local quantized models.
+Les niveaux gratuits obtiennent taux limité ou coucher du soleil; l'auto-hébergement a des coûts matériels. Le chemin véritablement libre = modèles quantifiés locaux.
 
 ---
 ## Contribuer
