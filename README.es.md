@@ -4,68 +4,66 @@
 
 Herramientas de IA gratuitas
 
-_El contenido detallado (listas, enlaces, descripciones) está en inglés por mantenibilidad — las secciones siguientes te guían._
-
-## ✍️ Writing
-| Tool | Free tier |
+Escribiendo
+← Herramienta Silencio
 |---|---|
-| [ChatGPT](https://chat.openai.com/) | ✅ GPT-4o mini + limited 4o |
-| [Claude](https://claude.ai/) | ✅ daily quota |
-| [Mistral Le Chat](https://chat.mistral.ai/) | ✅ generous |
-| [DeepSeek](https://chat.deepseek.com/) | ✅ very generous |
-| [HuggingChat](https://huggingface.co/chat/) | ✅ fully open |
+Silencio [ChatGPT] (https://chat.openai.com/) Silencio TENIDO GPT-4o mini + limitado 4o ANTE
+Silencio [Claude] (https://claude.ai/) Silencio TENIENDO cuota diaria
+Silencio [Mistral Le Chat] (https://chat.mistral.ai/)
+Silencio [DeepSeek] (https://chat.deepseek.com/)
+Silencio [HuggingChat] (https://huggingface.co/chat/) Silencio ↑
 
-## 🖼️ Image
-| Tool | Free tier |
+Imagen
+← Herramienta Silencio
 |---|---|
-| [Flux (via playgrounds)](https://huggingface.co/spaces/black-forest-labs/FLUX.1-schnell) | ✅ free demo |
-| [Ideogram](https://ideogram.ai/) | ✅ daily credits |
-| [Stable Diffusion local](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | ✅ 100% free locally |
-| [Playground](https://playground.com/) | ✅ |
+Silencio [Flux (vía juegos)] (https://huggingface.co/spaces/black-forest-labs/FLUX.1-schnell) Silencio ↑
+Silencio [Ideograma] (https://ideogram.ai/) Silencio TENIENDO créditos diarios TENIDO
+Silencio [Stable Diffusion local] (https://github.com/AUTOMATIC1111/stable-diffusion-webui)
+Silencio [Página de juegos] (https://playground.com/)
 
 ## 💻 Code
-| Tool | Free tier |
+← Herramienta Silencio
 |---|---|
-| [Continue + local model](https://continue.dev/) | ✅ fully free |
-| [Codeium/Windsurf plugin](https://codeium.com/) | ✅ generous |
-| [Aider](https://aider.chat/) | ✅ free, BYO API key |
+Silencio [Continue + modelo local](https://continue.dev/) TENIDO TENIDO TODAS LAS LIBERTADES
+Silencioso [Codeium/Windsurf plugin](https://codeium.com/)
+Silencio [Aider] (https://aider.chat/) TENIDO TENIDO gratis, BYO API key TEN
 
-## 🎙️ Audio
-| Tool | Free tier |
+## 🎙 Audio
+← Herramienta Silencio
 |---|---|
-| [Whisper local](https://github.com/openai/whisper) | ✅ fully free |
-| [Adobe Podcast enhance](https://podcast.adobe.com/) | ✅ |
-| [ElevenLabs](https://elevenlabs.io/) | ✅ monthly credits |
+Silencio [Whisper local] (https://github.com/openai/whisper)
+Silencio [Adobe Podcast potenciar] (https://podcast.adobe.com/)
+Silencio [ElevenLabs] (https://elevenlabs.io/) TENIENDO créditos mensuales TENIDO
 
 ## 🔄 Automation
-| Tool | Free tier |
+← Herramienta Silencio
 |---|---|
-| [n8n self-hosted](https://n8n.io/) | ✅ fully free OSS |
-| [Hugging Face Spaces](https://huggingface.co/spaces) | ✅ thousands of free demos |
-| [Ollama](https://ollama.com/) | ✅ local models, zero cost |
+Silencio [n8n self-hosted] (https://n8n.io/)
+Silencio [Hugging Face Spaces] (https://huggingface.co/spaces)
+Silencio [Ollama] (https://ollama.com/) Silencio TENIENDO modelos locales, costo cero TENIDO
 
-## 🎓 Free tiers worth exploiting
+## ❌ Tiers free worth exploiting
 
-| Provider | Free |
+Silencio Proveedor Silencio
 |---|---|
-| Google AI Studio | Nearly unlimited Gemini flash |
-| Groq | Fast inference free tier |
-| Mistral La Plateforme | Free tier API |
-| Cohere | Trial API keys |
-| HuggingFace Inference | Free community tier |
-| Cloudflare Workers AI | 10k neurons/day free |
+Silencio Google AI Studio Silencio Casi ilimitado Géminis flash
+Silencio Groq ← Inferencia rápida
+← Mistral La Plateforme ← API de nivel gratuito
+Silencio para las claves de API de prueba
+Silencio HuggingFace Inference ← La comunidad libre tier
+← Nubeflare Workers AI tención 10k neurons/day free ←
 
-## 📱 Free local (no API at all)
+## 📱 Free local (sin API)
 
-- **Ollama** + Llama/Qwen — full local
-- **Jan.ai** — nice UI over llama.cpp
-- **LM Studio** — GUI model manager
-- **Whisper.cpp** — local transcription
-- **Stable Diffusion** (ComfyUI/Fooocus) — local images
+**Ollama** + Llama/Qwen — full local
+- **Jan.ai** - Buena UI sobre llama.cpp
+**LM Studio** - Gestor de modelos GUI
+-Whisper.cpp** - transcripción local
+**Difusión estable** (ComfyUI/Fooocus) — imágenes locales
 
 ## 🧾 Note on "free"
 
-Free tiers get rate-limited or sunset; self-hosting has hardware cost. The genuinely free path = local quantized models.
+Los tigres libres se limitan con velocidad o puesta de sol; el auto hospedaje tiene un costo de hardware. El camino verdaderamente libre = modelos cuantizados locales.
 
 ---
 ## Contribuir
