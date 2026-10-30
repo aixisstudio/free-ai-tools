@@ -4,68 +4,66 @@
 
 Бесплатные ИИ-инструменты для работы
 
-_Подробное содержимое (списки, ссылки, описания) ведётся на английском — разделы ниже помогут сориентироваться._
-
-## ✍️ Writing
-| Tool | Free tier |
+##  ️ Написать
+| Инструмент | Свободный уровень |
 |---|---|
-| [ChatGPT](https://chat.openai.com/) | ✅ GPT-4o mini + limited 4o |
-| [Claude](https://claude.ai/) | ✅ daily quota |
-| [Mistral Le Chat](https://chat.mistral.ai/) | ✅ generous |
-| [DeepSeek](https://chat.deepseek.com/) | ✅ very generous |
-| [HuggingChat](https://huggingface.co/chat/) | ✅ fully open |
+| [ChatGPT] (https://chat.openai.com/) | ✅ GPT-4o mini + limited 4o |
+[Клод] (https://claude.ai/) |   суточная квота |
+[Мистраль Ле Чат] (https://chat.mistral.ai/) | ✅ щедрый
+[DeepSeek] (https://chat.deepseek.com/) | ✅ очень щедро
+[HuggingChat] (https://huggingface.co/chat/) |   полностью открыт
 
-## 🖼️ Image
-| Tool | Free tier |
+##  ️ Изображение
+| Инструмент | Свободный уровень |
 |---|---|
-| [Flux (via playgrounds)](https://huggingface.co/spaces/black-forest-labs/FLUX.1-schnell) | ✅ free demo |
-| [Ideogram](https://ideogram.ai/) | ✅ daily credits |
-| [Stable Diffusion local](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | ✅ 100% free locally |
-| [Playground](https://playground.com/) | ✅ |
+[Flux (через игровые площадки)] (https://huggingface.co/spaces/black-forest-labs/FLUX.1-schnell) |   free demo |
+[Идеограмма] (https://ideogram.ai/) |   ежедневные кредиты |
+[Стабильная диффузия локальная] (https://github.com/AUTOMATIC1111/stable-diffusion-webui) |   100% бесплатно локально |
+[Игровая площадка] (https://playground.com/) |
 
-## 💻 Code
-| Tool | Free tier |
+## код
+| Инструмент | Свободный уровень |
 |---|---|
-| [Continue + local model](https://continue.dev/) | ✅ fully free |
-| [Codeium/Windsurf plugin](https://codeium.com/) | ✅ generous |
-| [Aider](https://aider.chat/) | ✅ free, BYO API key |
+| [Продолжение + локальная модель] (https://continue.dev/) |   полностью свободный |
+[Codeium/Windsurf plugin] (https://codeium.com/) |  
+| [Aider](https://aider.chat/) |   free, BYO API key |
 
-## 🎙️ Audio
-| Tool | Free tier |
+##  ️ Аудио
+| Инструмент | Свободный уровень |
 |---|---|
-| [Whisper local](https://github.com/openai/whisper) | ✅ fully free |
-| [Adobe Podcast enhance](https://podcast.adobe.com/) | ✅ |
-| [ElevenLabs](https://elevenlabs.io/) | ✅ monthly credits |
+[Whisper local] (https://github.com/openai/whisper) | ✅ Полностью бесплатно
+[Adobe Podcast Enhance] (https://podcast.adobe.com/)
+[ElevenLabs] (https://elevenlabs.io/) |   ежемесячные кредиты
 
-## 🔄 Automation
-| Tool | Free tier |
+### Автоматизация
+| Инструмент | Свободный уровень |
 |---|---|
-| [n8n self-hosted](https://n8n.io/) | ✅ fully free OSS |
-| [Hugging Face Spaces](https://huggingface.co/spaces) | ✅ thousands of free demos |
-| [Ollama](https://ollama.com/) | ✅ local models, zero cost |
+[n8n self-hosted] (https://n8n.io/) | - полностью бесплатная OSS |
+[Hugging Face Spaces] (https://huggingface.co/spaces) - тысячи бесплатных демо-версий
+| [Ollama] (https://ollama.com/) |   местные модели, нулевая стоимость |
 
-## 🎓 Free tiers worth exploiting
+##   Бесплатные уровни, которые стоит использовать
 
-| Provider | Free |
+Провайдер: Free
 |---|---|
-| Google AI Studio | Nearly unlimited Gemini flash |
-| Groq | Fast inference free tier |
-| Mistral La Plateforme | Free tier API |
-| Cohere | Trial API keys |
-| HuggingFace Inference | Free community tier |
-| Cloudflare Workers AI | 10k neurons/day free |
+Google AI Studio почти неограниченная вспышка Gemini
+| Groq | Быстрый вывод свободный уровень |
+Mistral La Plateforme | Бесплатный API уровня
+Пробные ключи API / Trial API Keys
+#HugggingFace Inference #Свободное сообщество
+| Cloudflare Workers AI | 10 000 нейронов / день бесплатно
 
-## 📱 Free local (no API at all)
+## ) Бесплатный локальный (без API)
 
-- **Ollama** + Llama/Qwen — full local
-- **Jan.ai** — nice UI over llama.cpp
-- **LM Studio** — GUI model manager
-- **Whisper.cpp** — local transcription
-- **Stable Diffusion** (ComfyUI/Fooocus) — local images
+**Ollama** + Llama/Qwen - полностью местный
+**Jan.ai** - хороший пользовательский интерфейс по llama.cpp
+**LM Studio** — менеджер моделей GUI
+**Whisper.cpp** — локальная транскрипция
+**Стабильная диффузия** (ComfyUI/Fooocus) — локальные изображения
 
-## 🧾 Note on "free"
+## " Записка на "бесплатно"
 
-Free tiers get rate-limited or sunset; self-hosting has hardware cost. The genuinely free path = local quantized models.
+Бесплатные ярусы получают ограниченную ставку или закат; самохостинг имеет стоимость оборудования. Истинно свободный путь = локальные квантованные модели.
 
 ---
 ## Участие
